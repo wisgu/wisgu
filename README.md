@@ -1,4 +1,4 @@
-## Olá! Eu sou o Windson Gurgel, Desenvolvedor Front-end 👋
+## Olá! Eu sou o Windson Gurgel, Desenvolvedor Front-end.
 
 <div align="center">
   <a href="https://github.com/wisgu">
