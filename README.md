@@ -1,8 +1,4 @@
-## Olá! Eu sou o Windson Gurgel 👋
-
-- 🔭 Hoje trabalho com Front-end
-- 🌱 Estudando Html, Css e JavaScript
-- 😄 Pronomes: ele/dele
+## Olá! Eu sou o Windson Gurgel, Desenvolvedor Front-end 👋
 
 <div align="center">
   <a href="https://github.com/wisgu">
